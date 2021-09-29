@@ -29,7 +29,7 @@ pip install huga_package
 
 # Usage
 
-DEMOの実行方法など、"hoge"の基本的な使い方を説明する
+You can operate it by touching it
 
 ```bash
 git clone https://github.com/hoge/~
@@ -39,12 +39,12 @@ python demo.py
 
 # Note
 
-注意点などがあれば書く
+Null
 
 # Author
 
-作成情報を列挙する
+Made by Xepos_Studio!
 
-* 作成者
-* 所属
-* E-mail
+* Xepos
+* VCBorn
+* mikigohgazou@gmail.com
