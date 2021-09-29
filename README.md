@@ -24,7 +24,7 @@ and other 5 API
 Installation method: 1. Install c ++ format file 2. Create and run a shortcut
 
 ```bash
-pip install huga_package
+pip install MobiusHTML_package
 ```
 
 # Usage
