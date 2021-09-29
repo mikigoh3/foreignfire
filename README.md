@@ -32,8 +32,7 @@ pip install MobiusHTML_package
 You can operate it by touching it
 
 ```bash
-git clone https://github.com/hoge/~
-cd examples
+git clone https://github.com/mikigoh3/foreignfire/blob/main/README.md
 python demo.py
 ```
 
