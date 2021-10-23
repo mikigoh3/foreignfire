@@ -1,6 +1,6 @@
 # Name
 
-MobiusHTML
+Mobius Smart Pop-up
 
 
 # DEMO
@@ -16,8 +16,8 @@ very easy GUI
 Python3
 and other 5 API
 
-* Mobius Beta0.0.1
-* Mobius Beta0.0.2
+* mobius nano update Beta0.0.1
+* Mobius nano update Beta0.0.2
 
 # Installation
 
@@ -45,5 +45,5 @@ Null
 Made by Xepos_Studio!
 
 * Xepos
-* VCBorn
+* Mobius™️
 * mikigohgazou@gmail.com
